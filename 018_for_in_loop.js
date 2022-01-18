@@ -15,6 +15,6 @@ let obj = {
     car: "Toyota",
 }
 
-for (i in obj) {
-    console.log(obj[i])
+for(i in obj){
+  console.log(obj[i])
 }

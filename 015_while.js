@@ -14,8 +14,7 @@
 //    i++
 // } 
 let i = 0
-
 while (i < 4) {
-    console.log("Now i is")
+    console.log("who ?")
     i++
 }

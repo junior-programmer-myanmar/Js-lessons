@@ -6,8 +6,7 @@ let i = 0;
 //     i++;
 // } while (i < 3);
 
-
 do {
-    console.log("Hi Yu YU" + i);
-    i++
-} while (i< 3)
+    console.log("where ?");
+    i++;
+} while (i < 3)

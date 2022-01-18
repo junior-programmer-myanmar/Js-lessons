@@ -10,8 +10,6 @@
 
   
 // }
- 
-
-for(let j = 0; i < 4 ; i++){
-    console.log("age is ?")
+for (let j = 0; i < 3; i++){
+    console.log("/kl")
 }

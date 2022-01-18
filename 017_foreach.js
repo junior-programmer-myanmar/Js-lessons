@@ -1,8 +1,7 @@
 let data = "Lorem ipsum dolors it amet consectetur adipisicing";
 let kyb = data.split(" ")
 
-kyb.forEach((val,i) => console.log(val))
-
+kyb.forEach((val) => console.log(val))
 
 // let dd = ["kk","yy","bh"]
 // console.log(dd[0]);
