@@ -1,6 +1,4 @@
-let time = "3 O' clock ";
-console.log(time)
-
+let time10 = '30\' clock'
 let time1 = '3 O\' clock ' ;
 console.log(time1)
 

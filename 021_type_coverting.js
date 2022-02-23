@@ -42,7 +42,8 @@
 // console.log(typeof num)
 
 
-let str = "20.584938594839"
-let num = Number(str).toFixed(2)
-// let num = parseInt(str).toFixed(3)
-console.log(num);
+// let str = "20.584938594839"
+// let num = Number(str).toFixed(2)
+// // let num = parseInt(str).toFixed(3)
+// console.log(num);
+

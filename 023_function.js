@@ -25,3 +25,9 @@ function doIt2() {
 
 let total = doIt2() + 20;
 console.log(total)
+
+function doIt10(name,age = 20) {
+    console.log("Name is "  + name + " Age is " + age)
+}
+
+doIt10("Mg Mg" , 30)

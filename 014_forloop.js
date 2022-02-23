@@ -10,6 +10,11 @@
 
   
 // }
-for (let j = 0; i < 3; i++){
-    console.log("/kl")
+// for (let j = 0; i < 3; i++){
+//     console.log("/kl")
+// }
+
+for (let i = 0; i < 6; i++){
+    console.log("I am loop")
 }
+
